@@ -1,0 +1,21 @@
+* {
+    font-family: Lucida Sans, Arial, Helvetica, sans-serif;
+    margin:2px;
+    padding:2px;
+    background:#33ffcc;
+    font-size:15px;
+}
+
+body {
+    margin: 0px auto;
+}
+
+
+canvas {
+	background:#33ccff;
+}
+
+h1{
+	text-align:center;
+	font-size:17px;
+}
